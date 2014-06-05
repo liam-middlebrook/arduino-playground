@@ -1,4 +1,13 @@
 /*
+* (C) 2014 Liam Middlebrook
+* This software is released under
+* the MIT License
+* For a copy of the license please
+* visit the following URL
+* http://opensource.org/licenses/MIT
+*/
+
+/*
 * First off lets declare that pin 13
 * is going to be our LED's Pin. I'm
 * doing this because on the arduino 
